@@ -22,20 +22,33 @@
 function moveZeroes(nums: number[]): number[] {
   let insertPos = 0; // Position to insert non-zero elements
 
-  const arr = nums.slice(); // Create a copy of the original array (not necessary, but for clarity)
-  for (let i = 0; i < arr.length; i++) {
-    if (arr[i] !== 0) {
-      arr[insertPos] = arr[i]; // Place non-zero element at insert position
+  for (let i = 0; i < nums.length; i++) {
+    if (nums[i] !== 0) {
+      nums[insertPos] = nums[i]; // Place non-zero element at insert position
       insertPos++; // Move insert position forward
     }
   }
 
   // Fill the rest of the array with zeros
-  for (let i = insertPos; i < arr.length; i++) {
-    arr[i] = 0; // Set remaining positions to zero
+  for (let i = insertPos; i < nums.length; i++) {
+    nums[i] = 0; // Set remaining positions to zero
   }
 
-  return arr; // Return the modified array
+  return nums; // Return the modified array
+}
+
+function moveZeroesBySwapping(nums: Array<number>) {
+  const n: number = nums.length;
+  let zeroIdx: number = 0;
+  for (let i: number = 0; i < n; i++) {
+    if (nums[i] !== 0) {
+      const temp = nums[zeroIdx];
+      nums[zeroIdx] = nums[i];
+      nums[i] = temp;
+      zeroIdx++;
+    }
+  }
+  return nums;
 }
 
 // -------------------------

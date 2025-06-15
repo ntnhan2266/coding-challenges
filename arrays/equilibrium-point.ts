@@ -36,7 +36,6 @@
  *
  */
 
-
 // O(n^2) solution using brute force
 // This solution is not efficient for large arrays, but it demonstrates the concept clearly.
 function equilibriumPoint(arr: number[]): number {
