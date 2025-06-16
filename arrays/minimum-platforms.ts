@@ -22,7 +22,7 @@
  * Output: 3
  */
 
-export function findMinimumPlatforms(arr: number[], dep: number[]): number {
+function findMinimumPlatforms(arr: number[], dep: number[]): number {
   const n = arr.length;
   const arrivals = arr.slice().sort((a, b) => a - b);
   const departures = dep.slice().sort((a, b) => a - b);

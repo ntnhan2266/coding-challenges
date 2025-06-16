@@ -155,3 +155,56 @@ Want direct links to these problems with tags by pattern, or help scheduling you
 [5]: https://leetcode.com/problems/kth-largest-element-in-an-array/?utm_source=chatgpt.com "215. Kth Largest Element in an Array - LeetCode"
 [6]: https://www.geeksforgeeks.org/find-second-largest-element-array/?utm_source=chatgpt.com "Second Largest Element in an Array - GeeksforGeeks"
 [7]: https://leetcode.com/problems/largest-number/?utm_source=chatgpt.com "Largest Number - LeetCode"
+
+Here are 5 LeetCode string problems across varying difficulty levels:
+
+---
+
+### 🟢 Easy (2 problems)
+
+1. **Valid Palindrome**
+   **Problem**: Determine if a string is a palindrome, ignoring non-alphanumeric characters and case.
+   **Link**: [LeetCode #125](https://leetcode.com/problems/valid-palindrome/)
+   **Example**:
+   Input: `"A man, a plan, a canal: Panama"`
+   Output: `true`
+
+2. **Implement strStr()**
+   **Problem**: Return the index of the first occurrence of a substring in a string, or -1 if not found.
+   **Link**: [LeetCode #28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+   **Example**:
+   Input: `haystack = "hello", needle = "ll"`
+   Output: `2`
+
+---
+
+### 🟡 Medium (2 problems)
+
+3. **Longest Substring Without Repeating Characters**
+   **Problem**: Find the length of the longest substring without repeating characters.
+   **Link**: [LeetCode #3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+   **Example**:
+   Input: `"abcabcbb"`
+   Output: `3`
+
+4. **Group Anagrams**
+   **Problem**: Group words that are anagrams of each other.
+   **Link**: [LeetCode #49](https://leetcode.com/problems/group-anagrams/)
+   **Example**:
+   Input: `["eat", "tea", "tan", "ate", "nat", "bat"]`
+   Output: `[["eat","tea","ate"],["tan","nat"],["bat"]]`
+
+---
+
+### 🔴 Hard (1 problem)
+
+5. **Wildcard Matching**
+   **Problem**: Implement wildcard pattern matching with `?` (matches any single character) and `*` (matches any sequence).
+   **Link**: [LeetCode #44](https://leetcode.com/problems/wildcard-matching/)
+   **Example**:
+   Input: `s = "adceb", p = "*a*b"`
+   Output: `true`
+
+---
+
+Let me know if you want another set, e.g., focused on **sliding window**, **two pointers**, or **regex-based** string problems.

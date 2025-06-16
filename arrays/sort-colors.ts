@@ -24,7 +24,7 @@
  * Output: [0, 1, 2]
  */
 
-export function sortColors(nums: number[]): void {
+function sortColors(nums: number[]): void {
   let low = 0;       // boundary for 0s
   let mid = 0;       // current index
   let high = nums.length - 1; // boundary for 2s
