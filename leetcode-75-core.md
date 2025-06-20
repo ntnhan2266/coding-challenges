@@ -6,14 +6,14 @@ This list is structured to help you master the core patterns tested in interview
 
 ## ✅ Hash Map / Set (10)
 
-- [ ] Two Sum (Easy) — #1
-- [ ] Valid Anagram (Easy) — #242
-- [ ] Group Anagrams (Medium) — #49
-- [ ] Top K Frequent Elements (Medium) — #347
-- [ ] Happy Number (Easy) — #202
-- [ ] Isomorphic Strings (Easy) — #205
-- [ ] Longest Consecutive Sequence (Hard) — #128
-- [ ] Contains Duplicate (Easy) — #217
+- [x] Two Sum (Easy) — #1
+- [x] Valid Anagram (Easy) — #242
+- [x] Group Anagrams (Medium) — #49
+- [x] Top K Frequent Elements (Medium) — #347
+- [x] Happy Number (Easy) — #202
+- [x] Isomorphic Strings (Easy) — #205
+- [x] Longest Consecutive Sequence (Hard) — #128
+- [x] Contains Duplicate (Easy) — #217
 - [ ] Minimum Window Substring (Hard) — #76
 - [ ] Subarray Sum Equals K (Medium) — #560
 
