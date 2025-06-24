@@ -14,23 +14,23 @@ This list is structured to help you master the core patterns tested in interview
 - [x] Isomorphic Strings (Easy) — #205
 - [x] Longest Consecutive Sequence (Hard) — #128
 - [x] Contains Duplicate (Easy) — #217
-- [ ] Minimum Window Substring (Hard) — #76
-- [ ] Subarray Sum Equals K (Medium) — #560
+- [x] Minimum Window Substring (Hard) — #76
+- [x] Subarray Sum Equals K (Medium) — #560
 
 ---
 
 ## 🚪 Sliding Window (10)
 
-- [ ] Longest Substring Without Repeating Characters (Medium) — #3
-- [ ] Permutation in String (Medium) — #567
-- [ ] Minimum Size Subarray Sum (Medium) — #209
-- [ ] Longest Repeating Character Replacement (Medium) — #424
-- [ ] Sliding Window Maximum (Hard) — #239
-- [ ] Max Consecutive Ones III (Medium) — #1004
-- [ ] Grumpy Bookstore Owner (Medium) — #1052
-- [ ] Longest Substring with At Most K Distinct Characters (Hard) — #340
-- [ ] Repeated DNA Sequences (Medium) — #187
-- [ ] Find All Anagrams in a String (Medium) — #438
+- [x] Longest Substring Without Repeating Characters (Medium) — #3
+- [x] Permutation in String (Medium) — #567
+- [x] Minimum Size Subarray Sum (Medium) — #209
+- [x] Longest Repeating Character Replacement (Medium) — #424
+- [x] Sliding Window Maximum (Hard) — #239
+- [x] Max Consecutive Ones III (Medium) — #1004
+- [x] Grumpy Bookstore Owner (Medium) — #1052
+- [x] Longest Substring with At Most K Distinct Characters (Hard) — #340
+- [x] Repeated DNA Sequences (Medium) — #187
+- [x] Find All Anagrams in a String (Medium) — #438
 
 ---
 
