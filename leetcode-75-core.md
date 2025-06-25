@@ -36,22 +36,22 @@ This list is structured to help you master the core patterns tested in interview
 
 ## 🔁 Two Pointers (8)
 
-- [ ] Valid Palindrome (Easy) — #125
-- [ ] Merge Sorted Array (Easy) — #88
-- [ ] Remove Duplicates from Sorted Array (Easy) — #26
-- [ ] Container With Most Water (Medium) — #11
-- [ ] 3Sum (Medium) — #15
-- [ ] Trapping Rain Water (Hard) — #42
-- [ ] Move Zeroes (Easy) — #283
-- [ ] Backspace String Compare (Easy) — #844
+- [x] Valid Palindrome (Easy) — #125
+- [x] Merge Sorted Array (Easy) — #88
+- [x] Remove Duplicates from Sorted Array (Easy) — #26
+- [x] Container With Most Water (Medium) — #11
+- [x] 3Sum (Medium) — #15
+- [x] Trapping Rain Water (Hard) — #42
+- [x] Move Zeroes (Easy) — #283
+- [x] Backspace String Compare (Easy) — #844
 
 ---
 
 ## 🧠 Dynamic Programming (12)
 
-- [ ] Climbing Stairs (Easy) — #70
-- [ ] House Robber (Medium) — #198
-- [ ] Coin Change (Medium) — #322
+- [x] Climbing Stairs (Easy) — #70
+- [x] House Robber (Medium) — #198
+- [x] Coin Change (Medium) — #322
 - [ ] Longest Increasing Subsequence (Medium) — #300
 - [ ] Maximum Subarray (Easy) — #53
 - [ ] Decode Ways (Medium) — #91
