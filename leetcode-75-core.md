@@ -52,13 +52,13 @@ This list is structured to help you master the core patterns tested in interview
 - [x] Climbing Stairs (Easy) — #70
 - [x] House Robber (Medium) — #198
 - [x] Coin Change (Medium) — #322
-- [ ] Longest Increasing Subsequence (Medium) — #300
-- [ ] Maximum Subarray (Easy) — #53
-- [ ] Decode Ways (Medium) — #91
-- [ ] Word Break (Medium) — #139
-- [ ] Unique Paths (Medium) — #62
+- [x] Longest Increasing Subsequence (Medium) — #300
+- [x] Maximum Subarray (Easy) — #53
+- [x] Decode Ways (Medium) — #91
+- [x] Word Break (Medium) — #139
+- [x] Unique Paths (Medium) — #62
 - [ ] Edit Distance (Hard) — #72
-- [ ] Partition Equal Subset Sum (Medium) — #416
+- [x] Partition Equal Subset Sum (Medium) — #416
 - [ ] Target Sum (Medium) — #494
 - [ ] Interleaving String (Hard) — #97
 
