@@ -66,18 +66,18 @@ This list is structured to help you master the core patterns tested in interview
 
 ## 🔎 Binary Search (6)
 
-- [ ] Binary Search (Easy) — #704
-- [ ] Search Insert Position (Easy) — #35
-- [ ] Find Minimum in Rotated Sorted Array (Medium) — #153
-- [ ] Search in Rotated Sorted Array (Medium) — #33
+- [x] Binary Search (Easy) — #704
+- [x] Search Insert Position (Easy) — #35
+- [x] Find Minimum in Rotated Sorted Array (Medium) — #153
+- [x] Search in Rotated Sorted Array (Medium) — #33
 - [ ] Median of Two Sorted Arrays (Hard) — #4
-- [ ] Kth Smallest Element in a Sorted Matrix (Medium) — #378
+- [x] Kth Smallest Element in a Sorted Matrix (Medium) — #378
 
 ---
 
 ## 🌐 Graph (5)
 
-- [ ] Number of Islands (Medium) — #200
+- [x] Number of Islands (Medium) — #200
 - [ ] Clone Graph (Medium) — #133
 - [ ] Course Schedule (Medium) — #207
 - [ ] Pacific Atlantic Water Flow (Medium) — #417
