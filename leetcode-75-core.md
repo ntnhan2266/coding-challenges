@@ -70,7 +70,7 @@ This list is structured to help you master the core patterns tested in interview
 - [x] Search Insert Position (Easy) — #35
 - [x] Find Minimum in Rotated Sorted Array (Medium) — #153
 - [x] Search in Rotated Sorted Array (Medium) — #33
-- [ ] Median of Two Sorted Arrays (Hard) — #4
+- [x] Median of Two Sorted Arrays (Hard) — #4
 - [x] Kth Smallest Element in a Sorted Matrix (Medium) — #378
 
 ---
