@@ -59,7 +59,7 @@ This list is structured to help you master the core patterns tested in interview
 - [x] Unique Paths (Medium) — #62
 - [ ] Edit Distance (Hard) — #72
 - [x] Partition Equal Subset Sum (Medium) — #416
-- [ ] Target Sum (Medium) — #494
+- [x] Target Sum (Medium) — #494
 - [ ] Interleaving String (Hard) — #97
 
 ---
@@ -78,8 +78,8 @@ This list is structured to help you master the core patterns tested in interview
 ## 🌐 Graph (5)
 
 - [x] Number of Islands (Medium) — #200
-- [ ] Clone Graph (Medium) — #133
-- [ ] Course Schedule (Medium) — #207
+- [x] Clone Graph (Medium) — #133
+- [x] Course Schedule (Medium) — #207
 - [ ] Pacific Atlantic Water Flow (Medium) — #417
 - [ ] Word Ladder (Hard) — #127
 
@@ -88,17 +88,17 @@ This list is structured to help you master the core patterns tested in interview
 ## 🧮 Math / Bit Manipulation (4)
 
 - [ ] Sum of Two Integers (Medium) — #371
-- [ ] Reverse Integer (Easy) — #7
-- [ ] Power of Two (Easy) — #231
+- [x] Reverse Integer (Easy) — #7
+- [x] Power of Two (Easy) — #231
 - [ ] Counting Bits (Easy) — #338
 
 ---
 
 ## 🧰 Stack / Monotonic Stack (5)
 
-- [ ] Valid Parentheses (Easy) — #20
-- [ ] Min Stack (Medium) — #155
-- [ ] Daily Temperatures (Medium) — #739
+- [x] Valid Parentheses (Easy) — #20
+- [x] Min Stack (Medium) — #155
+- [x] Daily Temperatures (Medium) — #739
 - [ ] Evaluate Reverse Polish Notation (Medium) — #150
 - [ ] Largest Rectangle in Histogram (Hard) — #84
 
